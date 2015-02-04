@@ -18,12 +18,12 @@ TODO: upload some pics
 Hardware
 --------
 
-*Electric Meter*:
+* Electric Meter
 	- PIC16F630 micro controller
 	- HT1621B LCD controller
 	- ADE775 Electrical measurements chip
 
-*Hardware Hack*:
+* Hardware Hack
 	- PIC16F628A micro controller
 	- FTDI232 for USB/serial communication with the PC
 
@@ -36,4 +36,4 @@ Software
 - The host PC/Hardware hack communication software is written in C for *NIX OS
   with Java wrappers.
 
-**Note that this project is *NIX OS only compatible**
+        **Note that this project is *NIX OS only compatible**
