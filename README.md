@@ -19,13 +19,13 @@ Hardware
 --------
 
 *Electric Meter*:
-	- PIC16F630 microcontroller
+	- PIC16F630 micro controller
 	- HT1621B LCD controller
-	- ADE775 Electrical meassurements chip
+	- ADE775 Electrical measurements chip
 
 *Hardware Hack*:
-	- PIC16F628A microcontroller
-	- FTDI232 for usb/serial communication with the PC
+	- PIC16F628A micro controller
+	- FTDI232 for USB/serial communication with the PC
 
 
 
